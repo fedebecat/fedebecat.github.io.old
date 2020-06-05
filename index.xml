@@ -509,6 +509,14 @@ Three
     </item>
     
     <item>
+      <title>My page</title>
+      <link>https://fedebecat.github.io/mypage/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://fedebecat.github.io/mypage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>External Project</title>
       <link>https://fedebecat.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
