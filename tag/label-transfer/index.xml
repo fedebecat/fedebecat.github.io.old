@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Label Transfer | Academic</title>
+    <link>https://fedebecat.github.io/tag/label-transfer/</link>
+      <atom:link href="https://fedebecat.github.io/tag/label-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Label Transfer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedebecat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Label Transfer</title>
+      <link>https://fedebecat.github.io/tag/label-transfer/</link>
+    </image>
+    
+    <item>
+      <title>Indexing ensembles of exemplar-svms with rejecting taxonomies</title>
+      <link>https://fedebecat.github.io/publication/exemplar_cbmi/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://fedebecat.github.io/publication/exemplar_cbmi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
