@@ -73,8 +73,88 @@
   </url>
   
   <url>
+    <loc>https://fedebecat.github.io/publication-type/6/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/alberto-del-bimbo/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/automotive/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/autonomous-driving/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/inpainting/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/leonardo-galteri/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/lorenzo-berlincioni/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/lorenzo-seidenari/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fedebecat.github.io/mypage/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/publication_types/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/publication/inpainting/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/semantic-segmentation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tags/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/autovot/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/duccio-piccardi/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/publication/voteus/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,17 +163,7 @@
   </url>
   
   <url>
-    <loc>https://fedebecat.github.io/author/alberto-del-bimbo/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/tag/android/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/tag/cultural-heritage/</loc>
+    <loc>https://fedebecat.github.io/tag/exemplar-svm/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://fedebecat.github.io/author/lorenzo-seidenari/</loc>
+    <loc>https://fedebecat.github.io/tag/label-transfer/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,22 +183,12 @@
   </url>
   
   <url>
-    <loc>https://fedebecat.github.io/publication_types/</loc>
+    <loc>https://fedebecat.github.io/tag/taxonomy-learning/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fedebecat.github.io/publication/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/tag/style-transfer/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/tags/</loc>
+    <loc>https://fedebecat.github.io/tag/vector-quantization/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,22 +198,7 @@
   </url>
   
   <url>
-    <loc>https://fedebecat.github.io/tag/exemplar-svm/</loc>
-    <lastmod>2016-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fedebecat.github.io/publication/exemplar_cbmi/</loc>
-    <lastmod>2016-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/tag/label-transfer/</loc>
-    <lastmod>2016-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/tag/taxonomy-learning/</loc>
     <lastmod>2016-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -187,11 +232,19 @@
   </url>
   
   <url>
+    <loc>https://fedebecat.github.io/tag/android/</loc>
+  </url>
+  
+  <url>
     <loc>https://fedebecat.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://fedebecat.github.io/author/claudio-baecchi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/cultural-heritage/</loc>
   </url>
   
   <url>
@@ -228,6 +281,10 @@
   
   <url>
     <loc>https://fedebecat.github.io/publication/segmentation_free/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/style-transfer/</loc>
   </url>
   
   <url>
