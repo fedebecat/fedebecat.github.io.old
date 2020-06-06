@@ -5,12 +5,20 @@
     <link>https://fedebecat.github.io/author/leonardo-galteri/</link>
       <atom:link href="https://fedebecat.github.io/author/leonardo-galteri/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonardo Galteri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fedebecat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Leonardo Galteri</title>
       <link>https://fedebecat.github.io/author/leonardo-galteri/</link>
     </image>
+    
+    <item>
+      <title>Vehicle Trajectories from Unlabeled Data Through Iterative Plane Registration</title>
+      <link>https://fedebecat.github.io/publication/iterative_plane_registration/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://fedebecat.github.io/publication/iterative_plane_registration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Road layout understanding by generative adversarial inpainting</title>

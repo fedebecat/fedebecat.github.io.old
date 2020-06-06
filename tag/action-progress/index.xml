@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Action Progress | Federico Becattini</title>
+    <link>https://fedebecat.github.io/tag/action-progress/</link>
+      <atom:link href="https://fedebecat.github.io/tag/action-progress/index.xml" rel="self" type="application/rss+xml" />
+    <description>Action Progress</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedebecat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Action Progress</title>
+      <link>https://fedebecat.github.io/tag/action-progress/</link>
+    </image>
+    
+    <item>
+      <title>Am I done? Predicting action progress in videos</title>
+      <link>https://fedebecat.github.io/publication/progress/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://fedebecat.github.io/publication/progress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
