@@ -5,12 +5,20 @@
     <link>https://fedebecat.github.io/author/lorenzo-seidenari/</link>
       <atom:link href="https://fedebecat.github.io/author/lorenzo-seidenari/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Seidenari</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fedebecat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lorenzo Seidenari</title>
       <link>https://fedebecat.github.io/author/lorenzo-seidenari/</link>
     </image>
+    
+    <item>
+      <title>Indexing quantized ensembles of exemplar-SVMs with rejecting taxonomies</title>
+      <link>https://fedebecat.github.io/publication/exemplar_mtap/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://fedebecat.github.io/publication/exemplar_mtap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Indexing ensembles of exemplar-svms with rejecting taxonomies</title>
