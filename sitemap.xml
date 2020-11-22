@@ -48,37 +48,82 @@
   </url>
   
   <url>
+    <loc>https://fedebecat.github.io/publication-type/1/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/alberto-del-bimbo/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/authors/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/autonomous-driving/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/deep-learinig/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/federico-becattini/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/lorenzo-berlincioni/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/author/lorenzo-seidenari/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/markov-chain/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/publication/synthetic_traj/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/publication_types/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/publication/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tag/synthetic-data/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedebecat.github.io/tags/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fedebecat.github.io/publication-type/2/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fedebecat.github.io/author/alberto-del-bimbo/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/authors/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/tag/autonomous-driving/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/author/federico-becattini/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fedebecat.github.io/author/francesco-marchetti/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/author/lorenzo-seidenari/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,28 +138,8 @@
   </url>
   
   <url>
-    <loc>https://fedebecat.github.io/publication_types/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/publication/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/tags/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fedebecat.github.io/tag/trajectory-prediction/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/publication-type/1/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -259,11 +284,6 @@
   
   <url>
     <loc>https://fedebecat.github.io/author/leonardo-galteri/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedebecat.github.io/author/lorenzo-berlincioni/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
